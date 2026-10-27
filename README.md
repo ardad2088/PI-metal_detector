@@ -22,10 +22,6 @@ A pulse induction detector drives its coil with short, strong current pulses and
 
 Schematic: [`docs/schematic.pdf`](docs/schematic.pdf) · PCB views: `docs/pcb_top.png`, `docs/pcb_bottom.png`
 
-# Pulse Induction (PI) Metal Detector Board
-
-2-layer mixed-signal PCB for a pulse induction metal detector: an STM32 microcontroller, a high-power MOSFET coil driver and an op-amp analog front end.
-
 
 ## Repository layout
 
