@@ -26,8 +26,8 @@ Schematic: [`docs/schematic.pdf`](docs/schematic.pdf) · PCB views: `docs/pcb_to
 ## Repository layout
 
 ```
-docs/       photos, schematic PDF, PCB renders, scope captures
-hardware/   [Altium / KiCad] project, libraries, Gerbers, BOM
+docs/       photos, schematic PDF, PCB renders
+hardware/   KiCad project, libraries, Gerbers, BOM
 ```
 
 
