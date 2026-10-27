@@ -20,7 +20,7 @@ A pulse induction detector drives its coil with short, strong current pulses and
 
 
 
-Schematic: [`docs/schematic.pdf`](docs/schematic.pdf) · PCB views: `docs/pcb_top.png`, `docs/pcb_bottom.png`
+Schematic: [`docs/schematic.pdf`](docs/schematic.pdf) · PCB views: (docs/pcb_top.png), (docs/pcb_bottom.png)
 
 
 ## Repository layout
